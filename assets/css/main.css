@@ -2465,26 +2465,3 @@ p{
     height: auto;
   } 
 
-.float {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .float:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-  }
-  .float-item {
-    float: left;
-  }
-
-/*inline-block*/
-  .inline-b {
-    max-width:1200px;
-    margin:0 auto;
-  }
-  .inline-b-item {
-    display: inline-block;
-  }

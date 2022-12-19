@@ -2479,3 +2479,12 @@ p{
   .float-item {
     float: left;
   }
+
+/*inline-block*/
+  .inline-b {
+    max-width:1200px;
+    margin:0 auto;
+  }
+  .inline-b-item {
+    display: inline-block;
+  }

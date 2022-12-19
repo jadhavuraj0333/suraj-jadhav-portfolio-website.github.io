@@ -2429,7 +2429,7 @@ p{
   
   dl {
     
-    columns: 3;
+    columns: 2;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
    
   }
